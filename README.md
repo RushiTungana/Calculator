@@ -1,2 +1,2 @@
 # Calculator
-Calculator using JS (with LIGHT &amp; DARK  modes)
+Calculator using JS ( DARK &amp; LIGHT themes )
